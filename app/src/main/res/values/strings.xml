@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">TugasLayoutProfil</string>
+    <string name="app_main">Contoh Profil layout</string>
+    <string name="app_layout">Relative + Linear Layout</string>
+    <string name="app_constraint">Constraint Layout</string>
+    <string name="lorem_ipsum"> AKU DATANG, AKU BELAJAR, AKU BERHASIL, I LOVE YOU ITN MALANG</string>
+    <string name="lorem_ipsum_mini">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</string>
+
+</resources>
